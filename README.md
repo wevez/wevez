@@ -9,8 +9,7 @@ AIにマインクラフトのPVPを学習させてみる
 ## SigmaClientCopy
 Fabric APIをつかってSigmaの模造品をつくる
 ## 2b2t系クライアント
-SatelliteReborn
-Orangette(一応)
+SatelliteReborn, Orangette(一応)
 
 # 言語
 ## 得意
