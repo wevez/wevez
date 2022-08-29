@@ -1,16 +1,16 @@
 ### Hi there 👋
+## 今作ってるやつ/将来的に作りたいやつ:
+# 2chまとめ
+2chのゆっくり解説を自動生成
+# AlphaPVP
+AIにマインクラフトのPVPを学習させてみる
+# ManiaClient
+個人的にバイパスつくったりして楽しんでるやつ。ほしい人はDiscordのDMまで。
+# SigmaClientCopy
+Fabric APIをつかってSigmaの模造品をつくる
 
-<!--
-**wevez/wevez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 言語
+# 得意
+Japanese, Java
+# あんまりできない
+English, Python, C++, C#
