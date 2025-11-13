@@ -1,3 +1,4 @@
+net.minecraft.client.Minecraft
 net.minecraft.client.entity.AbstractClientPlayer
 net.minecraft.network.play.client.C0DPacketCloseWindow
 net.minecraft.client.renderer.BlockRendererDispatcher
@@ -16,7 +17,6 @@ net.minecraft.client.entity.EntityPlayerSP
 net.minecraft.block.BlockLeaves
 net.minecraft.network.NetworkManager
 net.minecraft.client.multiplayer.PlayerControllerMP
-net.minecraft.client.Minecraft
 net.minecraft.client.renderer.BlockModelRenderer
 net.minecraft.entity.EntityLivingBase
 net.minecraft.item.ItemStack
