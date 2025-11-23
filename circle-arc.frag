@@ -7,8 +7,8 @@ uniform vec2 pos;
 void main() {
     vec2 st = gl_FragCoord.xy - (pos + radius + borderThickness);
     
-    // 90度時計回りに回転: (x, y) -> (y, -x)
-    vec2 rotated = vec2(st.y, -st.x);
+    // 90度時計回りに回転: (x, y) -> (-y, x)
+    vec2 rotated = vec2(-st.y, st.x);
     
     float circle = sqrt(dot(rotated, rotated));
     //Radius minus circle to get just the outline
